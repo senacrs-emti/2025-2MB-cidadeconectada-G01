@@ -11,8 +11,8 @@
 |-------------------|----------------------------------------------------------------------------|
 | Matheus Matsdorf  | [github.com/MatheusMatsdorf](https://github.com/MatheusMatsdorf)           |
 | Pedro Henrique    | [github.com/pedrohenriquesaretto](https://github.com/pedrohenriquesaretto) |
-| Pedro Perez       | [github.com/MatheusMatsdorf](https://github.com/PedroPerezDiniz)           |
-| Gustavo Rocha     | [github.com/MatheusMatsdorf](https://github.com/GustavoRochaH)             |
+| Pedro Perez       | [github.com/PedroPerezDiniz](https://github.com/PedroPerezDiniz)           |
+| Gustavo Rocha     | [github.com/GustavoRochaH](https://github.com/GustavoRochaH)               |
 
 ## Descrição Resumida do Projeto
 Este projeto visa passar informações sobre o jogo Brawl Stars através de uma fan wiki.
