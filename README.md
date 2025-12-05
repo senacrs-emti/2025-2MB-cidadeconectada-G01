@@ -33,7 +33,7 @@ Descobrimos que o projeto Lixípolis é importante porque transforma um tema ess
 
   ## Histórico do Projeto
 | Fase              | Data          | Descrição                |
-|-------------------|------------------------------------------|
+|-------------------|---------------|--------------------------|
 | Início do Projeto |  20/10/2025   | Organização e Separação  |
 | Fase 1            |  23/10/2025   | Desenvolvimento          |
 | Fase 2            |  03/11/2025   | Implementação            |
