@@ -1,4 +1,4 @@
-# Brawl wiki
+# Lixópolis
 
 ### Tema do Projeto:
 **[Reciclagem]**
