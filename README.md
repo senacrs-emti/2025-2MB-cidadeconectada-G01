@@ -22,7 +22,7 @@
 
 
 ## Justificativa
-Descobrimos que o projeto Lixípolis é importante porque transforma um tema essencial (a reciclagem) em algo interativo, divertido e fácil de aprender. ao invés  de apenas explicar teoricamente o que é lixo reciclável, o jogo permite que o usuário pratique a separação correta dos resíduos, construindo aprendizado por meio da experiência.
+Descobrimos que o projeto ReciclaMais é importante porque transforma um tema essencial (a reciclagem) em algo interativo, divertido e fácil de aprender. ao invés  de apenas explicar teoricamente o que é lixo reciclável, o jogo permite que o usuário pratique a separação correta dos resíduos, construindo aprendizado por meio da experiência.
 
 ## Ferramentas Utilizadas
 - **Linguagens**: [HTML, CSS e JavaScript.]
@@ -47,7 +47,7 @@ Descobrimos que o projeto Lixípolis é importante porque transforma um tema ess
 
 
  ## Conclusão
-O desenvolvimento do jogo Lixópolis demonstra como a tecnologia pode ser usada de forma criativa para promover a educação ambiental. Ao transformar a reciclagem em uma experiência divertida e interativa, o projeto contribui para a formação de hábitos conscientes e para o entendimento da importância do descarte correto dos resíduos.
+O desenvolvimento do jogo ReciclaMais demonstra como a tecnologia pode ser usada de forma criativa para promover a educação ambiental. Ao transformar a reciclagem em uma experiência divertida e interativa, o projeto contribui para a formação de hábitos conscientes e para o entendimento da importância do descarte correto dos resíduos.
 
 
  ### Contado da Equipe
