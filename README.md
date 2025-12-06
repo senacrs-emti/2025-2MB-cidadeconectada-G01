@@ -1,4 +1,4 @@
-# Lixópolis
+# RiciclaMais
 
 ### Tema do Projeto:
 **[Reciclagem]**
